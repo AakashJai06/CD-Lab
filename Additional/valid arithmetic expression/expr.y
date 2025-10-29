@@ -1,3 +1,6 @@
+//Generate a YACC specification to recognize a valid arithmetic expression that uses
+operators +, – , *,/ and parenthesis.
+
 %{
 #include <stdio.h>
 #include <stdlib.h>
